@@ -1,4 +1,4 @@
 package AccountClasses;
 
-public class Investment {
+public class Investment extends Account {
 }
